@@ -12,7 +12,7 @@ Using the financial dataset called budget_data.csv (composed of two columns: "Da
 
 5. The greatest decrease in profits (date and amount) over the entire period
 
-NOTE: The given CSV file has Date column in year-month format. To convert it to month-year format and match the financial analysis report provided I used date format function refered from stackoverflow website https://stackoverflow.com/questions/32258915/reformatting-a-list-of-date-strings-to-day-month-year-in-python
+NOTE: The given CSV file has Date column in year-month format. If I run the code directly by saving the CSV file it displays the output date in year month format. To convert it to month-year format and match the financial analysis report provided I used date format function refered from stackoverflow website https://stackoverflow.com/questions/32258915/reformatting-a-list-of-date-strings-to-day-month-year-in-python
 
 PyPoll Instructions:
 Using the financial dataset called election_data.csv (composed of three columns: "Voter ID", "County", and "Candidate") the following questions were answered:
