@@ -11,6 +11,8 @@ Using the financial dataset called budget_data.csv (composed of two columns: "Da
 4. The greatest increase in profits (date and amount) over the entire period
 
 5. The greatest decrease in profits (date and amount) over the entire period
+   
+Created three folders. Code folder has the main.py python code, Resources folder has the CSV file used and the analysis folder has the exported text file
 
 NOTE: The given CSV file has Date column in year-month format. If I run the code directly by saving the CSV file it displays the output date in year month format. To convert it to month-year format and match the financial analysis report provided I used date format function refered from stackoverflow website https://stackoverflow.com/questions/32258915/reformatting-a-list-of-date-strings-to-day-month-year-in-python
 
